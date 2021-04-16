@@ -1,0 +1,89 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Ortega Hoops
+email: ohoops20@gmail.com
+description: "Who are we?  We are a group of high schoolers that love the game of basketball and we want to teach younger kids that share the love for the game and help them get better.  We started OHoops in September and we immediately  got several signups. Our team is made of five people; Anshul Doshi, Anay Berde, Abhi Korrapati, Pranav Joshi, and Navin Bhat."
+
+
+# Team names, titles and social links
+people:
+- name: Abhi Korrapati
+  pic: 1
+  position: Head Coach
+  social:
+    - title: #
+      url: #
+    - title: #
+      url: #
+    - title: #
+      url: #
+
+- name: Anshul Doshi
+  pic: 2
+  position: Outreach
+  social:
+    - title: #
+      url: #
+    - title: #
+      url: #
+    - title: #
+      url: #
+
+- name: Navin Bhat
+  pic: 3
+  position: Head Coach
+  social:
+    - title: #
+      url: #
+    - title: #
+      url: #
+    - title: #
+      url: #
+      
+- name: Pranav Joshi
+  pic: 4
+  position: Technology Director
+  social:
+    - title: #
+      url: #
+    - title: #
+      url: #
+    - title: #
+      url: #
+      
+- name: Anay Berde
+  pic: 5
+  position: Coach
+  social:
+    - title: #
+      url: #
+    - title: #
+      url: #
+    - title: #
+      url: #
+  
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Ortega Park
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
